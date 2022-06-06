@@ -1,0 +1,213 @@
+Launch :-
+
+    Alpha (1-10 people)
+    Beta (10-50 people)
+    Launch 
+        Feedback - Update
+
+Technical side :-
+
+    Art
+    Programming
+    Animation
+    Sounds
+    Game Engine
+
+Art :- 
+    
+    2D 
+    photoshop (paid)
+    Illustration
+    Gymps (free)
+    
+    3D
+    3D Max(paid)
+    Maya (paid)
+    Maya Lite(low paid)
+    Blender (free)
+
+Programming :-
+
+    Basic Fundamentals should be clear.
+    c++(starting)
+    C#(popular)
+    python(pygame)
+    Js(depricated)
+
+    Practice :-
+        Loop(if-else, do while)
+        Math(Add, Sub, Multi, Div, Vector3), physics
+        DSA (for make game fast)
+        memory allocation
+
+Animation :- 
+
+    2D
+    photoshop, Illustration
+    Gimp
+    Spine 2D
+
+    3D
+    3DS Max
+    Maya
+    Blender
+
+Sculpting :-
+
+    Z-Brush
+    Mudbox
+    Meshmixer
+
+Sound :-
+    
+    FL Studio
+    Garage Band
+    Audacity
+    Adobe Audition
+    Logic Pro X
+
+Game Engine (Compile Game and Deploy) :-
+
+    Unity 
+    Unreal Engine 4/5
+    Cryengine
+    Cry Engine
+    Construct3
+    G Develop
+    Godot
+    Build Box
+
+    Proprietory Game Engine :-
+        Rockstar Advance Game Engine(GTA games)
+        Frosfbite
+        Dunia Engine
+
+How to Learn a Game Engine :-
+
+    Interface
+    Pipeline
+    Tutorials
+    Courses 
+    Documentation
+    Investing Time
+
+How to choose Game Engine :-
+
+    Unity
+        Mobile*/PC/WebGL
+        2D/3D
+        Casual*/Hypercasual/Hardware
+        Big/Small
+        Mid-end System
+    Unreal
+        PC*/Mobile
+        2D/3D*
+        Casual/Hardcore*
+        Big*/Small
+        High-end System
+    Construct3
+        Mobile/HTML5*
+        2D
+        Casual
+        Small
+        Platform Independent
+        (low-end)
+
+Self-Learning
+    Time
+    Resources
+        Tutorials
+        Courses
+        Mentor
+    Money
+    Commiunity
+    Game-jam
+
+What you can do by GameDev
+    Make your own Game
+    Do a job
+    Make games for others.
+
+Career :-
+
+    Job-
+        Portfolio
+        Resume
+        Qualifiacation
+    Freelancing-
+        Portfolio
+        Network
+    Making your own games-
+        Portfolio(no-need)
+        Knowledge
+        Making Game
+        Marketing
+        Maintaining
+
+Portfolio :-
+
+    Game Programmer
+        Github
+        Gitlab
+        Source tree
+        website
+
+    Game Artist
+        Behance.Net
+        ArtStation
+        website
+
+    Game Designer
+        website
+        
+Game Designer :-
+    GDD
+    Backbone
+    Coreloop
+    Mechanics
+    Level Design
+    Maintain & Update
+
+Game Artists :-
+    2D/3D Art
+    Animation
+    Rigging
+    Texture
+
+*** Failing to Plan is Planning to Fail ***
+making a GDD :-
+    Title
+    High pitch line
+    Platform
+    Orientation
+    Core Mechanics
+    Story line
+    Characters
+    Menus
+    Screen flow 
+    Interaction(AI)
+
+Procastination :-
+
+    Remember yourself, why you started ?
+
+    Discipline
+        No one come to remind you,
+        you just stoped your own success.
+
+    Distraction
+        feeling lazy
+        get another idea :- work with both or finish yout first.
+
+
+Frame Work :-
+
+    Idea -> GDD -> Prototype -> Test -> Production  
+     -> Assets Creation -> Packages -> (Test?) -Good-> Launch -> Marketing -> Feedback -> (canges?) -> Packages
+
+    Packages -> Test -not Good-> Make change -> Packages,
+
+    GDD -> Prototype -> (Test?) -not good-> Tweak (changes).
+
+
+    
